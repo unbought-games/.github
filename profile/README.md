@@ -16,7 +16,7 @@ can inspect the rules, help improve them, and run your own server.
 multiplayer space strategy game you can play in your browser. Develop planets,
 research technologies, build fleets, raid your neighbors, and form alliances.
 
-Join the **open beta**. Build your first colony.
+We’re actively building Orbit Imperium. Expect new features and changes as we go.
 
 **[Play Orbit Imperium](https://orbitimperium.com/)** ·
 [Explore the source](https://github.com/unbought-games/orbit-imperium) ·
